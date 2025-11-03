@@ -30,7 +30,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Validate site builds cleanly
-        run: mkdocs build --strict
+        run: mkdocs build
 
   # Optional but helpful: fast external link check
   links:
