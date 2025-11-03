@@ -82,21 +82,9 @@ More information available at [Wikipedia](https://en.wikipedia.org/wiki/Quatro_d
 | 23  | 233º    | FL120         | -       |
 | 25  | 254º    | FL040         | -       |
 
-{%
-    include-markdown "phraseology/icao.md"
-    start="#### Delivery Clearance"
-    end="### Pushback Procedures"
-%}
-
 ## Ground
 
 ### Push-back Procedures
-
-{%
-    include-markdown "../phraseology/icao.md"
-    start="#### Pushback Approved"
-    end="### Taxi Procedures"
-%}
 
 #### Directions
 
@@ -125,12 +113,6 @@ More information available at [Wikipedia](https://en.wikipedia.org/wiki/Quatro_d
 
 #### Phraseology
 
-{%
-    include-markdown "../phraseology/icao.md"
-    start="#### Taxi to HP"
-    end="#### Taxi to Stand"
-%}
-
 ### Taxi In Procedures
 
 - In low traffic situations, Tower Controllers are expected to hand over arrival traffic to Ground Controllers once the traffic has vacated the runway.
@@ -138,12 +120,6 @@ More information available at [Wikipedia](https://en.wikipedia.org/wiki/Quatro_d
 - In high traffic situations, in order to maintain the high speed exits clear of traffic, Tower Controllers may issue an initial taxi instruction to arrival traffic before handover to Ground Controllers.
 
 #### Phraseology
-
-{%
-    include-markdown "../phraseology/icao.md"
-    start="#### Taxi to Stand"
-    end="## Tower Operations"
-%}
 
 ## Tower
 
