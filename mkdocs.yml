@@ -22,14 +22,10 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: green
-      accent: lime
-    - scheme: slate
+    - scheme: light
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
-      accent: light green
 markdown_extensions:
   - admonition
   - footnotes
@@ -64,3 +60,6 @@ plugins:
         order: asc
         sort_type: natural
         order_by: title
+
+extra_css:
+  - stylesheets/extra.css
