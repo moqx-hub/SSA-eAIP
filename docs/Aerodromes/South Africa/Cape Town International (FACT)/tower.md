@@ -95,7 +95,7 @@ An aircraft may be cleared to land provided that:
 * The Tower Controller is satisfied that the aircraft is turning and planning to vacate at a high speed exit provided.
 * The aircraft is expected to keep moving past the stopbar and not come to a full stop.
 
-!!! info "Landing /w Traffic Vacating"
+!!! info "Landing with Traffic Vacating"
     EDW85, traffic vacating ahead via C, Runway 19, cleared to land.
 
 ## Missed Approach
@@ -106,4 +106,5 @@ All aircraft are to comply with the standard missed approaches to avoid conflict
 
 
 Only once the pilot has been observed to be following the missed approach, should you then handoff to Cape Town Approach for further.
+
 
