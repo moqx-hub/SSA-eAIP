@@ -82,4 +82,3 @@ Assuming that the arriving aircraft has vacated the runway, you would issue taxi
 
 !!! info "Taxiing to the Stand"
     FBSK_TWR: "BOT123, taxi via X and X to Stand A1.
-
