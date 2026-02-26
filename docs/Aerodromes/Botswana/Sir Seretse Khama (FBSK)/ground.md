@@ -84,4 +84,10 @@ Assuming that the arriving aircraft has vacated the runway, you would issue taxi
     FBSK_TWR: "BOT123, taxi via X and X to Stand A1.
 
 ## Visual Flight Rules (VFR)
+On initial call with SMC, the VFR aircraft is expected to provide:
 
+* Aircraft Registration, if the callsign used is not the aircraft registration
+* Aircraft Type
+* Persons on Board
+* Fuel Endurance
+* Intentions
